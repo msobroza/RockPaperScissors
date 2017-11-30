@@ -1,4 +1,6 @@
 # Rock Paper Scissors
 
 
-![alt text](https://en.wikipedia.org/wiki/Rock%E2%80%93paper%E2%80%93scissors#/media/File:Rock-paper-scissors.svg)
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Rock-paper-scissors.svg" width="350"/>
+</p>
