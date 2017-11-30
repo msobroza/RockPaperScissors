@@ -13,4 +13,4 @@ python main.py
 ```
 The file **rnn.pth.tar** contains the parameters of a trained network 
 
-It wins me about 70% of times but maybe for you can be different :)
+The AI wins against me 85% of times, but maybe against you could be different :)
