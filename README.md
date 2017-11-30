@@ -11,3 +11,6 @@ For training the network and play
 ```
 python main.py
 ```
+The file **rnn.pth.tar** contains the parameters of a trained network 
+
+It wins me about 70% of times but maybe for you can be different :)
